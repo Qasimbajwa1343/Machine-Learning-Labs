@@ -3,7 +3,6 @@
 A Machine Learning project that predicts student marks based on study hours using Linear Regression.
 
 ## Technologies
-
 - Python
 - Pandas
 - NumPy
@@ -11,20 +10,14 @@ A Machine Learning project that predicts student marks based on study hours usin
 - Scikit-learn
 - Jupyter Notebook
 
-## Workflow
+## Results
+- Predicted Marks for 8 study hours: 70
+- R² Score: 0.975
 
-1. Data Collection
+## Workflow
+1. Data Creation
 2. Data Cleaning
 3. Data Visualization
-4. Train/Test Split
-5. Model Training
-6. Prediction
-7. Evaluation
-
-## Algorithm
-
-- Linear Regression
-
-## Objective
-
-To predict student marks from study hours and understand the relationship between effort and performance.
+4. Model Training
+5. Prediction
+6. Evaluation
